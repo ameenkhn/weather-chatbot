@@ -1,9 +1,3 @@
-Got it 👍 — since your directory has **backend (FastAPI + Gemini + OpenWeather)** and **frontend (static HTML/JS/CSS)**, the README should clearly explain how to set up, configure, and run everything locally.
-
-Here’s a complete `README.md` you can drop into your project 👇
-
----
-
 # 🌦️ Weather Chatbot with Gemini + OpenWeather
 
 This is a **local web app** that integrates:
