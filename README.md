@@ -5,7 +5,6 @@ This is a **local web app** that integrates:
 * **Gemini AI** → to answer general questions and act as the chatbot brain.
 * **OpenWeather API** → to fetch real-time weather details.
 * **FastAPI backend** → to connect AI + weather API.
-* **Static frontend (HTML, JS, CSS)** → simple chat interface in the browser.
 
 ---
 
