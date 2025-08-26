@@ -104,14 +104,3 @@ Installed via:
 ```bash
 pip install fastapi uvicorn requests python-dotenv google-generativeai
 ```
-
----
-
-## 🛠️ Development
-
-* Modify `agents/tools.py` → customize weather fetching.
-* Modify `agents/weather_agent.py` → tweak how Gemini + weather responses are combined.
-* Modify `static/index.html` / `script.js` / `style.css` → change UI.
-
-
-👉 Would you like me to also add a **"Sample Conversation" section** in the README (showing example chat input/output), so anyone testing knows what to expect?
